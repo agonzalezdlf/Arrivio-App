@@ -1,0 +1,8 @@
+{
+  "name": "Arrivio Final",
+  "description": "Enterprise-grade logistics optimization platform using anonymized AI network intelligence to reduce failed deliveries and improve timing accuracy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
